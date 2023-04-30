@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 hello, I'm student of Radiotherapy at Erciyes University. I'm interested in programming treatment devices for radiotherapy treatment processes. I have intermediate-level proficiency in Python and Java, as well as basic-level proficiency in JavaScript and advanced-level proficiency in HTML.<br> In addition to programming, I'm interested in graphic design and constantly striving to improve my skills.<br>
 
 
