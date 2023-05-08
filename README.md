@@ -1,5 +1,7 @@
 # About Me:
-hello, I'm student of Radiotherapy at Erciyes University. I'm interested in programming treatment devices for radiotherapy treatment processes. I possess intermediate-level knowledge and ability in Python and Java, a basic understanding of JavaScript, and an advanced understanding of HTML.<br> In addition to programming, I'm interested in graphic design and constantly striving to improve my skills.<br>
+hello, I'm student of Radiotherapy at Erciyes University. I'm interested in programming treatment devices for radiotherapy treatment processes. I possess intermediate-level knowledge and ability in Python and Java, a basic understanding of JavaScript, and an advanced understanding of HTML.<br> In addition to programming, I'm interested in graphic design and constantly striving to improve my skills.
+
+I don't have any ongoing projects at the moment. Please contact me at lucianuniverse@gmail.com to review my project archive<br>
 
 
 ## 🌐 Socials:
